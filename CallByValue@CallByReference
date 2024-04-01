@@ -1,0 +1,12 @@
+		
+		Call By Value
+1. means that argument's value is copied and is passed to the parameter 
+list  of the method.
+2. Changes made in a copy of variable never modify the values of
+variable outside the function.
+
+          Call By Reference
+1. instead of copying the values of variables,the address 
+of the variables is used.
+2. Changes made in the variable also  affects the values of
+variable outside the function. 
